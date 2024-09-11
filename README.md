@@ -1,6 +1,6 @@
 ## "Unical Solutions" kompaniyasining dasturchi kandidatlar uchun 1-darajali algoritmik topshirig‘i.
 
-&nbsp;`[`,`]`,`{`,`}`,`(`,`)` belgilardan iborat $s$ start berilgan. $s$ satr yaroqli ekanini tekshiring.
+&nbsp;`[`,`]`,`{`,`}`,`(`,`)` belgilardan iborat $s$ satr berilgan. $s$ satr yaroqli ekanini tekshiring.
 Satr yaroqli deyiladi:\
 \
 &nbsp;&nbsp;&nbsp; 1. Ochiq qavslar bir xil turdagi qavslar bilan yopilishi kerak.\
