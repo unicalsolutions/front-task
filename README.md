@@ -27,6 +27,3 @@ Agar qavslar to‘g‘ri ochib yopilgan bo‘lsa `YES`, aks holda `NO` so‘zlar
  \
 *Yechim ixtiyoriy dasturlash tilida bo‘lishi mumkin. Yechim kodining oxirida kommentariy shaklida qisqacha yechim haqida izoh berib ketilsin.\
 *Suhbatga kelganingizda shunday qiyinlikdagi boshqa bir topshiriq ham beriladi, iltimos topshiriqni yordam olmasdan yeching.
-\
-\
-Yechimni [Unical HR](https://t.me/unical_hr) ga jo'nating.
